@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "I56d/+HdNlme+lyGozeYPq7KwOHRlbtY4LhQdMcd/QR8GxsES16EkQm38dc2vTO6//m751BVwgCXVNq5ZzIdqw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eytan\\source\\repos\\SVTransaction\\SVTransaction\\SVTransaction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\5.0.0\\microsoft.aspnetcore.connections.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\5.0.0\\microsoft.aspnetcore.http.connections.client.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\5.0.0\\microsoft.aspnetcore.http.connections.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\5.0.0\\microsoft.aspnetcore.signalr.client.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\5.0.0\\microsoft.aspnetcore.signalr.client.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\5.0.0\\microsoft.aspnetcore.signalr.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\5.0.0\\microsoft.aspnetcore.signalr.protocols.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\spookvooper.api\\1.3.16\\spookvooper.api.1.3.16.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
+    "C:\\Users\\eytan\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
